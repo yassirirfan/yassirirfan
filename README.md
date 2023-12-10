@@ -4,6 +4,8 @@
 
 🌟 Experienced Odoo and MERN stack developer passionate about building robust, scalable solutions in full-stack web development. I thrive on transforming concepts into functional, elegant code and optimizing business processes through ERP mastery.
 
+![Yassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirirfan&show_icons=true&theme=radical)
+
 ### Tech Stack 🛠️
 
 🔧 **Odoo**: Customizations, module development, and seamless ERP solutions.
