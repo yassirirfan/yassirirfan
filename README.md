@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Yassir Irfan!
 
 ### About Me ℹ️
 
@@ -12,21 +12,8 @@
 
 🌐 **Full-stack Development**: Proficient in both front-end and back-end development, ensuring cohesive and efficient systems.
 
-### Most Used Languages 💻
-
-- Python
-- JavaScript (Node.js, React)
-- HTML/CSS
-- SQL
-
-### Projects 🚀
-
-- **Odoo Custom Modules**: [Link to Odoo Customizations Repo]
-- **MERN Stack Projects**: [Link to MERN Stack Projects Repo]
-- [Add more project links and descriptions as needed]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie)]
 
 ### Let's Connect! 🌟
 
 📫 Reach out to me for collaboration, discussions, or insights in Odoo or MERN stack development. Let's innovate together!
-
-[LinkedIn](link) | [Personal Portfolio/Blog](link) | [Email](email)
