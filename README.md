@@ -12,7 +12,7 @@
 
 🌐 **Full-stack Development**: Proficient in both front-end and back-end development, ensuring cohesive and efficient systems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie)
 
 ### Let's Connect! 🌟
 
