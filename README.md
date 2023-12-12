@@ -8,11 +8,7 @@
 
 ### Tech Stack 🛠️
 
-🔧 **Odoo**: Customizations, module development, and seamless ERP solutions.
-  
-🚀 **MERN Stack**: Crafting dynamic web applications with MongoDB, Express.js, React, and Node.js.
-
-🌐 **Full-stack Development**: Proficient in both front-end and back-end development, ensuring cohesive and efficient systems.
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie&theme=radical)
 
