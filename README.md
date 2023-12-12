@@ -5,6 +5,7 @@
 🌟 Experienced Odoo and MERN stack developer passionate about building robust, scalable solutions in full-stack web development. I thrive on transforming concepts into functional, elegant code and optimizing business processes through ERP mastery.
 
 ![Yassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirirfan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie&theme=radical)
 
 ### Tech Stack 🛠️
 
@@ -16,10 +17,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="100"/>](https://www.nginx.com/) &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100"/>](https://getbootstrap.com/) &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="100"/>](https://aws.amazon.com/)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie&theme=radical)
 
 ### Let's Connect! 🌟
 
