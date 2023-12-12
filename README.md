@@ -8,7 +8,9 @@
 
 ### Tech Stack 🛠️
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="200"/>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirirfan&layout=pie&theme=radical)
 
