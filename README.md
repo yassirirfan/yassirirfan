@@ -1,4 +1,4 @@
-👋 Hey there! I'm Yassir Irfan, a passionate Odoo developer with over 2 years of hands-on experience in Odoo/Python development, coupled with a solid 3+ years in JavaScript.
+👋 Hey there! I'm a passionate Odoo developer with over 2 years of hands-on experience in Odoo/Python development, coupled with a solid 3+ years in JavaScript.
 
 ### What Sets Me Apart:
 
