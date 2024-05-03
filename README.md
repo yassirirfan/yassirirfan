@@ -14,6 +14,4 @@
 
 ### Let's Connect:
 
-📧 Ready to discuss ideas over a virtual coffee? Drop me a line at yassirirfan7@gmail.com.
-
 🌐 For a deeper dive into my professional journey and potential synergies, connect with me on [LinkedIn](https://www.linkedin.com/in/yassir-irfan/).
