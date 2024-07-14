@@ -12,7 +12,7 @@ Heya! I'm Yassir Irfan, a dedicated Full Stack Odoo Developer currently living i
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=282828">
-  <img src="https://img.shields.io/badge/-MERN-green?style=for-the-badge&logo=nextjs&logoColor=blue&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NEXTJS-blue?style=for-the-badge&logo=nextjs&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-Odoo-purple?style=for-the-badge&logo=odoo&logoColor=purple&labelColor=282828">
 </div>
 </p>
