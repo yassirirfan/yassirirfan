@@ -14,7 +14,7 @@ Heya! I'm Yassir Irfan, a dedicated Full Stack Odoo Developer currently living i
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=282828">
   <img src="https://img.shields.io/badge/-NEXTJS-black?style=for-the-badge&logo=nextjs&logoColor=black&labelColor=282828">
   <img src="https://img.shields.io/badge/-Odoo-purple?style=for-the-badge&logo=odoo&logoColor=purple&labelColor=282828">
-   <img src="https://img.shields.io/badge/-Postgres-purple?style=for-the-badge&logo=postgres&logoColor=blue&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Postgres-blue?style=for-the-badge&logo=postgres&logoColor=blue&labelColor=282828">
 </div>
 </p>
 
@@ -24,8 +24,8 @@ class YassirIrfan():
   def __init__(self):
     self.name = "Yassir Irfan";
     self.username = "yassirirfan";
-    self.location = "Malappuram, Kerala, India";
-    self.linkedin = "https://www.linkedin.com/in/yassir-irfan";
+    self.location = "Calicut, Kerala, India";
+    self.linkedin = "[https://www.linkedin.com/in/yassir-irfan](https://www.linkedin.com/in/yassir-irfan/)";
     self.email = "yassirirfan7@gmail.com";
   
   def __str__(self):
