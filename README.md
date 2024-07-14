@@ -51,21 +51,5 @@ if __name__ == '__main__':
 ## My Statistics
 
 <br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yassirirfan&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassirirfan&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
 
 [![Yassir Irfan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yassirirfan&custom_title=Yassir%20Irfan's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://yassirirfan.dev)
-
-------
-
-Credit: [yassirirfan](https://github.com/yassirirfan)
-
-Last Edited on: 14/07/2024
-```
-
-Feel free to customize further or let me know if there are additional details you would like to include or modify.
