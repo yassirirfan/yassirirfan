@@ -1,6 +1,6 @@
 Here's an edited version of the README template based on the information from your resume:
 
-```markdown
+
 <h1 align="center">
   <b>Yassir Irfan</b>
 </h1>
