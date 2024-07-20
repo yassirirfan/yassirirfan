@@ -2,7 +2,7 @@
   <b>Yassir Irfan</b>
 </h1>
 
-Heya! I'm Yassir Irfan, a dedicated Odoo Developer currently living in Calicut, Kerala, India. With a wealth of experience in developing robust solutions and providing strategic guidance to clients, I specialize in JavaScript, API Integration, and meticulous Requirement Analysis. 
+Heya! I'm Yassir Irfan, a dedicated Odoo Developer currently living in Kerala, India. With a wealth of experience in developing robust solutions and providing strategic guidance to clients, I specialize in JavaScript, API Integration, and meticulous Requirement Analysis. 
 
 <br>
 
