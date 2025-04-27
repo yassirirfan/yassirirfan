@@ -16,12 +16,10 @@ Enterprise software specialist with expertise in Odoo ERP solutions and full-sta
 
 ### Tech Stack
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>
+    <td align="center" width="15%"><strong>Languages</strong></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -36,6 +34,7 @@ Enterprise software specialist with expertise in Odoo ERP solutions and full-sta
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+      <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -46,6 +45,7 @@ Enterprise software specialist with expertise in Odoo ERP solutions and full-sta
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -54,6 +54,7 @@ Enterprise software specialist with expertise in Odoo ERP solutions and full-sta
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/Query_Optimization-FF6C37?style=for-the-badge&logo=databricks&logoColor=white">
+      <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -68,8 +69,6 @@ Enterprise software specialist with expertise in Odoo ERP solutions and full-sta
   </tr>
 </table>
 
-</div>
-
 ---
 
 ### Professional Highlights
@@ -79,33 +78,6 @@ Enterprise software specialist with expertise in Odoo ERP solutions and full-sta
 - Led **10+** large-scale database migrations with zero data loss
 - Optimized database performance by **25%** across enterprise applications
 - Winner of **Cybrosys Hackathon 2024** for Next.js application
-
----
-
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Enterprise Integration Engine</h3>
-      <p>Unified API gateway connecting Odoo ERP with e-commerce platforms</p>
-      <p><strong>Impact:</strong> Reduced integration time by 60%</p>
-      <p><strong>Stack:</strong> Python, XML-RPC, OAuth, PostgreSQL</p>
-    </td>
-    <td width="33%">
-      <h3>Migration Framework</h3>
-      <p>Automated data migration tool with validation capabilities</p>
-      <p><strong>Impact:</strong> Cut migration time by 40%</p>
-      <p><strong>Stack:</strong> Python, PostgreSQL, Docker, AWS</p>
-    </td>
-    <td width="33%">
-      <h3>Next.js Commerce Platform</h3>
-      <p>Hackathon-winning modern e-commerce application</p>
-      <p><strong>Impact:</strong> Proven expertise in modern web tech</p>
-      <p><strong>Stack:</strong> Next.js, React, MongoDB, Node.js</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
