@@ -1,47 +1,85 @@
-# Yassir Irfan
+/** 
+ * TECHNICAL EXPERTISE
+ * -------------------
+ * Senior developer specialized in enterprise system architecture,
+ * business process automation, and scalable web applications.
+ */
 
-## Senior Odoo Developer & Full-Stack Engineer
+interface Developer {
+  core: string[];
+  backend: {[key: string]: string[]};
+  frontend: string[];
+  database: {[key: string]: string[]};
+  infrastructure: string[];
+}
 
-Experienced software developer specializing in Odoo ERP solutions and full-stack web applications. Core expertise in Python, JavaScript, PostgreSQL, and MERN stack.
+const skills: Developer = {
+  core: ["Python", "JavaScript", "TypeScript", "OOP", "Design Patterns", "Data Structures", "Algorithms"],
+  backend: {
+    "ERP": ["Odoo Framework", "ORM", "XML-RPC", "OAuth", "API Development", "Business Process Automation"],
+    "Web": ["Node.js", "Express", "GraphQL", "REST API", "Microservices"]
+  },
+  frontend: ["React", "Next.js", "OWL", "QWeb", "HTML5/CSS3", "TailwindCSS"],
+  database: {
+    "SQL": ["PostgreSQL", "Query Optimization", "Database Design", "Performance Tuning"],
+    "NoSQL": ["MongoDB", "Document Modeling"]
+  },
+  infrastructure: ["Docker", "AWS", "CI/CD", "Git", "Linux"]
+};
 
-## Technical Proficiency
+/**
+ * PROFESSIONAL IMPACT
+ * ------------------
+ */
 
-**Languages:** Python, JavaScript, C  
-**Odoo:** ORM, OWL, QWeb, API Integration, Custom Module Development  
-**Web Dev:** MERN Stack, Next.js, HTML/CSS, Bootstrap, TailwindCSS  
-**Database:** PostgreSQL, MongoDB, Query Optimization  
-**DevOps:** Docker, AWS, Git, Linux, CI/CD  
+const achievements = {
+  odooModules: "100+ custom modules developed for enterprise clients",
+  integrationPlatforms: "20+ third-party systems connected via custom API architecture",
+  databaseMigrations: "10+ large-scale migrations (15GB+) with zero downtime",
+  performanceOptimization: "25% average query performance improvement across projects",
+  recognitions: ["Cybrosys Hackathon Winner 2024", "HackerRank Certified Software Engineer"]
+};
 
-## Current Work
+/**
+ * FEATURED WORK
+ * ------------
+ */
 
-Currently leading ERP implementations and custom API integrations at Cybrosys Technologies. Developed 100+ custom Odoo modules and engineered 20+ third-party integrations with platforms like Magento, Shopify, and Zoho CRM.
+interface Project {
+  name: string;
+  description: string;
+  impact: string;
+  stack: string[];
+}
 
-## Notable Projects
+const showcase: Project[] = [
+  {
+    name: "Enterprise Integration Engine",
+    description: "Unified API gateway connecting Odoo ERP with e-commerce, CRM, and payment platforms",
+    impact: "Reduced integration development time by 60%, enabled real-time data synchronization",
+    stack: ["Python", "PostgreSQL", "XML-RPC", "OAuth", "REST API"]
+  },
+  {
+    name: "Intelligent Migration Framework",
+    description: "Automated data migration tool with validation and transformation capabilities",
+    impact: "Cut migration time by 40%, eliminated data loss risks during ERP version upgrades",
+    stack: ["Python", "PostgreSQL", "Docker", "AWS"]
+  },
+  {
+    name: "Next.js Commerce Platform",
+    description: "Hackathon-winning modern e-commerce application with headless architecture",
+    impact: "Demonstrated versatility beyond ERP development in modern web technologies",
+    stack: ["Next.js", "React", "Node.js", "MongoDB", "TailwindCSS"]
+  }
+];
 
-```
-ERP Integration Framework
-- Custom connector architecture for seamless third-party platform integration
-- Implemented for e-commerce, CRM, and payment gateways
-- Reduced data synchronization time by 40%
+/**
+ * CONNECT
+ * ------
+ */
 
-Database Migration Toolkit
-- Managed 10+ large-scale migrations (15GB+ databases)
-- Optimized query performance by 25%
-- Enhanced security protocols reducing vulnerability by 40%
-
-Next.js Web Application (Hackathon Winner)
-- Scalable frontend with optimized state management
-- RESTful API integration with authentication
-```
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassirirfan&show_icons=false&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassirirfan&theme=default&hide_border=true" alt="GitHub Streak" height="160px" />
-</p>
-
-## Contact
-
-- Email: yassirirfan7@gmail.com
-- LinkedIn: [linkedin.com/in/yassir-irfan](https://linkedin.com/in/yassir-irfan)
+const contact = {
+  email: "yassirirfan7@gmail.com",
+  linkedin: "linkedin.com/in/yassir-irfan",
+  location: "Kozhikode, Kerala, India"
+};
