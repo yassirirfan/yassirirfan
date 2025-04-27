@@ -8,8 +8,6 @@
 
 ---
 
-### About Me
-
 Enterprise software specialist with expertise in Odoo ERP solutions and full-stack development. I build scalable applications and automation systems that solve complex business challenges.
 
 ---
