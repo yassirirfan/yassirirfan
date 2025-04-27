@@ -1,85 +1,90 @@
-/** 
- * TECHNICAL EXPERTISE
- * -------------------
- * Senior developer specialized in enterprise system architecture,
- * business process automation, and scalable web applications.
- */
+<div align="center">
+  <h1>Yassir Irfan</h1>
+  <p><em>Senior Odoo Developer & Full-Stack Engineer</em></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassir_Irfan-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yassir-irfan)
+  [![Email](https://img.shields.io/badge/Email-yassirirfan7%40gmail.com-D14836?style=flat&logo=gmail)](mailto:yassirirfan7@gmail.com)
+</div>
 
-interface Developer {
-  core: string[];
-  backend: {[key: string]: string[]};
-  frontend: string[];
-  database: {[key: string]: string[]};
-  infrastructure: string[];
-}
+---
 
-const skills: Developer = {
-  core: ["Python", "JavaScript", "TypeScript", "OOP", "Design Patterns", "Data Structures", "Algorithms"],
-  backend: {
-    "ERP": ["Odoo Framework", "ORM", "XML-RPC", "OAuth", "API Development", "Business Process Automation"],
-    "Web": ["Node.js", "Express", "GraphQL", "REST API", "Microservices"]
-  },
-  frontend: ["React", "Next.js", "OWL", "QWeb", "HTML5/CSS3", "TailwindCSS"],
-  database: {
-    "SQL": ["PostgreSQL", "Query Optimization", "Database Design", "Performance Tuning"],
-    "NoSQL": ["MongoDB", "Document Modeling"]
-  },
-  infrastructure: ["Docker", "AWS", "CI/CD", "Git", "Linux"]
-};
+### About Me
 
-/**
- * PROFESSIONAL IMPACT
- * ------------------
- */
+Enterprise software specialist with expertise in Odoo ERP solutions and full-stack development. I build scalable applications and automation systems that solve complex business challenges.
 
-const achievements = {
-  odooModules: "100+ custom modules developed for enterprise clients",
-  integrationPlatforms: "20+ third-party systems connected via custom API architecture",
-  databaseMigrations: "10+ large-scale migrations (15GB+) with zero downtime",
-  performanceOptimization: "25% average query performance improvement across projects",
-  recognitions: ["Cybrosys Hackathon Winner 2024", "HackerRank Certified Software Engineer"]
-};
+---
 
-/**
- * FEATURED WORK
- * ------------
- */
+### Tech Stack
 
-interface Project {
-  name: string;
-  description: string;
-  impact: string;
-  stack: string[];
-}
+**Languages:**
+```
+Python | JavaScript | TypeScript | C
+```
 
-const showcase: Project[] = [
-  {
-    name: "Enterprise Integration Engine",
-    description: "Unified API gateway connecting Odoo ERP with e-commerce, CRM, and payment platforms",
-    impact: "Reduced integration development time by 60%, enabled real-time data synchronization",
-    stack: ["Python", "PostgreSQL", "XML-RPC", "OAuth", "REST API"]
-  },
-  {
-    name: "Intelligent Migration Framework",
-    description: "Automated data migration tool with validation and transformation capabilities",
-    impact: "Cut migration time by 40%, eliminated data loss risks during ERP version upgrades",
-    stack: ["Python", "PostgreSQL", "Docker", "AWS"]
-  },
-  {
-    name: "Next.js Commerce Platform",
-    description: "Hackathon-winning modern e-commerce application with headless architecture",
-    impact: "Demonstrated versatility beyond ERP development in modern web technologies",
-    stack: ["Next.js", "React", "Node.js", "MongoDB", "TailwindCSS"]
-  }
-];
+**Backend:**
+```
+Odoo Framework | ORM | Node.js | Express | REST API | GraphQL | OAuth
+```
 
-/**
- * CONNECT
- * ------
- */
+**Frontend:**
+```
+React | Next.js | OWL | QWeb | HTML/CSS | Bootstrap | TailwindCSS
+```
 
-const contact = {
-  email: "yassirirfan7@gmail.com",
-  linkedin: "linkedin.com/in/yassir-irfan",
-  location: "Kozhikode, Kerala, India"
-};
+**Database:**
+```
+PostgreSQL | MongoDB | Database Design | Query Optimization
+```
+
+**DevOps:**
+```
+Docker | AWS | Git | Linux | CI/CD
+```
+
+---
+
+### Professional Highlights
+
+- Developed **100+** custom Odoo modules for enterprise clients
+- Engineered **20+** third-party API integrations (Magento, Shopify, Zoho)
+- Led **10+** large-scale database migrations with zero data loss
+- Optimized database performance by **25%** across enterprise applications
+- Winner of **Cybrosys Hackathon 2024** for Next.js application
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Enterprise Integration Engine</h3>
+      <p>Unified API gateway connecting Odoo ERP with e-commerce platforms</p>
+      <p><strong>Impact:</strong> Reduced integration time by 60%</p>
+      <p><strong>Stack:</strong> Python, XML-RPC, OAuth, PostgreSQL</p>
+    </td>
+    <td width="33%">
+      <h3>Migration Framework</h3>
+      <p>Automated data migration tool with validation capabilities</p>
+      <p><strong>Impact:</strong> Cut migration time by 40%</p>
+      <p><strong>Stack:</strong> Python, PostgreSQL, Docker, AWS</p>
+    </td>
+    <td width="33%">
+      <h3>Next.js Commerce Platform</h3>
+      <p>Hackathon-winning modern e-commerce application</p>
+      <p><strong>Impact:</strong> Proven expertise in modern web tech</p>
+      <p><strong>Stack:</strong> Next.js, React, MongoDB, Node.js</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassirirfan&show_icons=true&theme=react&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassirirfan&theme=react&hide_border=true" height="170px" />
+</div>
+
+<div align="center">
+  <p><em>"Building elegant solutions to complex business challenges"</em></p>
+</div>
